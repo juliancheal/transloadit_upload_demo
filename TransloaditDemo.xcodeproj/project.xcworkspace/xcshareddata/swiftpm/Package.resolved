@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "transloaditkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/transloadit/TransloaditKit",
+      "state" : {
+        "revision" : "b43ae5a2f77ec1f1318e88795cffccc84f98e929",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "tuskit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tus/TUSKit",
+      "state" : {
+        "revision" : "3afde4888638e434392a60f9cf6363244351b352",
+        "version" : "3.2.1"
+      }
+    }
+  ],
+  "version" : 2
+}
